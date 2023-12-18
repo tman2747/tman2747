@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tman2747
-- 👀 I’m interested in programming with C, Python, java, C++
-- 🌱 I’m currently learning ... Python and C
+- 👀 I’m interested in programming with C++, C, C#, Python, Java
+- 🌱 I’m currently learning ... Unity Game Programming
 - 📫 How to reach me Discord sL1MTman#2747
 
 <!---
